@@ -1,5 +1,6 @@
 streamlit==1.32.0
-tensorflow==2.10.0
+tensorflow-cpu==2.12.0
 numpy==1.23.5
 pillow
 gdown
+keras==2.12.0
